@@ -4,4 +4,4 @@ var cw = camera_get_view_width(view_camera[0]);
 
 draw_set_font(font_score);
 draw_set_colour(c_white);
-draw_text(cx+cw,cy,string(thescore));
+draw_text(cx+cw/2,cy+25,string(thescore));
