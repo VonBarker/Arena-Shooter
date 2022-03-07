@@ -34,10 +34,10 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_517B3BF2","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_3050599B","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_6F7F396B","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_449D6877","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_517B3BF2","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_3050599B","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_6F7F396B","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_449D6877","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -65,7 +65,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rm_game",
   "tags": [],
   "resourceType": "GMRoom",
 }
